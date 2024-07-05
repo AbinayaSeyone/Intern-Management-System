@@ -1,0 +1,113 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.account{
+  background-color: rgb(46, 102, 83);
+  height: 100vh;
+}
+
+.imgstyle{
+  width: 40px;
+}
+
+.login{
+  background-color: rgb(46, 102, 83);
+  height: 100vh;
+}
+
+.OTP{
+  background-color: rgb(46, 102, 83);
+  height: 100vh;
+}
+
+.displaymessage{
+  background-color: rgb(46, 102, 83);
+  height: 100vh;
+}
+/* .sub-btn{
+  position: fixed;
+  bottom: 50px;
+  right: 150px;
+} */
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+:root {
+  --yellow: linear-gradient(180deg, #F8D49A -146.42%, #FAD79D -46.42%);
+  --orange: #fca61f;
+  --black: #242d49;
+  --gray: #788097;
+  --purple: linear-gradient(180deg, #BB67FF 0%, #C484F3 100%);
+  --pink: #50E2CC;
+  --glass: rgba(255, 255, 255, 0.54);
+  --boxShadow: 0px 4px 60px rgb(0 0 0 / 8%);
+  --smboxShadow: -79px 51px 60px rgba(0, 0, 0, 0.08);
+  --activeItem: rgba(4, 244, 208, 0.07);
+
+}
+
+.btn-outline-info{
+  --bs-btn-color: #50E2CC!important;
+  --bs-btn-border-color: #50E2CC!important;
+  --bs-btn-hover-bg: #50E2CC!important;
+  --bs-btn-hover-border-color: #50E2CC!important;
+}
+
+.labelBorder{
+  backgroundColor: rgba(255,255,255, 0.1)!important;
+  borderRadius: 10px!important;
+  borderColor: #ffffff!important;
+  borderWidth: 0.5px!important;
+  borderStyle:solid!important;
+  boxShadow: 0px 0px 5px 2px rgba(8, 151, 157, 0.5)!important;
+}
+
+.background-image {
+  background-image: url("https://wallpaperaccess.com/full/2314950.jpg");
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.background-image1 {
+  background-image: url("https://images4.alphacoders.com/839/thumb-1920-83944.jpg");
+  background-size: cover;
+
+  height: 100vh;
+  display: flex;
+
+}

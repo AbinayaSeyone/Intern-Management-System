@@ -1,0 +1,27 @@
+
+a
+java:S1192["FDefine a constant instead of duplicating this literal "false" 4 times.(‰ÃİÀşÿÿÿÿ
+m
+java:S1192J"RDefine a constant instead of duplicating this literal "] does not exist!" 3 times.(¼°ƒıÿÿÿÿ
+c
+java:S1192n"HDefine a constant instead of duplicating this literal "unimail" 3 times.(†á»Šıÿÿÿÿ
+e
+java:S1192J"JDefine a constant instead of duplicating this literal " for id [" 3 times.(¼°ƒıÿÿÿÿ
+a
+java:S1192{"FDefine a constant instead of duplicating this literal "email" 3 times.(¸˜èèıÿÿÿÿ
+m
+java:S3776O"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(†ë”ùøÿÿÿÿ
+E	java:S106^"+Replace this use of System.out by a logger.(µÏ…èùÿÿÿÿ
+?	java:S106a"+Replace this use of System.out by a logger.(§Şç>
+@	java:S106b"+Replace this use of System.out by a logger.(ú÷»Ò
+E	java:S106c"+Replace this use of System.out by a logger.(Ç‰‡´ıÿÿÿÿ
+E	java:S106h"+Replace this use of System.out by a logger.( £ºùÿÿÿÿ
+B
+java:S1125o"'Remove the unnecessary boolean literal.(œ¦š¬ùÿÿÿÿ
+B
+java:S1125s"'Remove the unnecessary boolean literal.(ÆĞŞ¢úÿÿÿÿ
+V	java:S125x"<This block of commented-out lines of code should be removed.(­¬®ùÿÿÿÿ
+B
+java:S1125|"'Remove the unnecessary boolean literal.(œ¦š¬ùÿÿÿÿ
+C
+java:S1125€"'Remove the unnecessary boolean literal.(ÆĞŞ¢úÿÿÿÿ

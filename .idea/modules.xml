@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ims-ims_public_abi/svcs/core/core.iml" filepath="$PROJECT_DIR$/ims-ims_public_abi/svcs/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ims-ims_public_abi.iml" filepath="$PROJECT_DIR$/.idea/ims-ims_public_abi.iml" />
+    </modules>
+  </component>
+</project>

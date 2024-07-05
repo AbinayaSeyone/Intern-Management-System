@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ims-ims_public_abi/apps/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ims-ims_public_abi/apps/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ims-ims_public_abi/docs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ims-ims_public_abi/docs/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ims-ims_public_abi/ops/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ims-ims_public_abi/ops/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ims-ims_public_abi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ims-ims_public_abi/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ims-ims_public_abi/svcs/core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ims-ims_public_abi/svcs/core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ims-ims_public_abi/svcs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ims-ims_public_abi/svcs/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

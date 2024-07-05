@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.green {
+  background-color: #50E2CC;
+  /* color: red; */
+}
+
+.form-control{
+  border-color:rgba(39, 207, 190, 0.47) !important;
+}
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+/* .border-secondary{
+    border-color:rgba(39, 207, 190, 0.47)!important;
+} */
+
+/* Variables */
+.border-secondary{
+  border-color: #CCCCCC!important;
+  border-radius: 30px !important;
+}
+.border{
+  border-color: #CCCCCC!important;
+}
+.image {
+
+  /* width: 100%;
+  height: 70%;
+  border-bottom-right-radius: 50%;
+  border-bottom-left-radius:2000px;
+  opacity: 0.6;
+*/
+
+  width: 100%;
+  height: 85%;
+  border-radius:0 0 2000px 3000px ;
+  opacity: 0.55;
+}
+
+.icons {
+  color: white;
+  width: 100%;
+  height: 100%;
+
+}
+i {
+  text-shadow:2px 4px 6px cyan;
+}
+.fa {
+  font-size:50px;
+}
+.fa-apple, .fa-car {
+  font-size: 80px;
+}
+.box{
+  background-color: #50E2CC;
+  border-color:rgba(39, 207, 190, 0.47) !important;
+  border: 5px solid rgba(1, 33, 26, 0.31);
+  border-radius: 50%;
+  height:100%;
+  width:100%;
+}
+
+
+
+
